@@ -1,0 +1,88 @@
+
+
+#myNavbar:active {
+    color:gray;
+    background-color: azure;
+  }
+  #navbar{
+      background-color: black;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 40px;
+     
+  }
+  #navbar:hover{
+    color: wheat;
+    background-color: slategrey;
+  }
+ td{
+    margin-left: 20px;
+    margin-right: 20px; 
+    font-size: 40px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h1{
+     font-size: 60px;
+     font-style: oblique;
+  
+     background-color: blanchedalmond;
+ }
+ h1:hover{
+     color: brown;
+     background-color: indianred;
+ }
+ #first:hover
+ {
+    color: wheat;
+    background-color: slategrey;
+ }
+ button:hover{
+    color: wheat;
+    background-color: green;
+ }
+.aboutsharadhi
+{
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: darkcyan;
+    font-size: 25px ;
+    color: aliceblue;
+   
+}
+.aboutsharadhi2
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: inherit;
+    
+}
+.aboutsharadhi1
+{
+    background-color: burlywood;
+}
+.welcome{
+    font-size: 70px;
+    align-items: center;
+    margin-left: 90px;
+    margin-right: 190px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: grey;
+   
+}
+.welcome:hover
+ {
+    color: wheat;
+    background-color: slategrey;
+ }
+.last
+{
+    align-content: center;
+    background-color: brown;
+    
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+  }
